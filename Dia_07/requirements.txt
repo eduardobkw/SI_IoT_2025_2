@@ -1,0 +1,10 @@
+face_recognition
+opencv-python
+cv2-tools
+numpy
+dlib
+keras
+TensorFlow==2.15.0
+requests
+playsound
+pydub
